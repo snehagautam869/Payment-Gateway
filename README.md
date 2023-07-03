@@ -2,13 +2,13 @@
 https://sneha2543.000webhostapp.com/
 # Helping Hands Website - Payment Integration
 
-## About
-
-Welcome to the Helping Hands website! Our platform is dedicated to providing support and assistance to those in need. Through our various initiatives and programs, we aim to make a positive impact on society. This website serves as a hub for our community, where users can learn more about our mission, get involved, and contribute to our cause.
-
 ## Home
 
 The home page is where you can find an overview of our organization and the work we do. It provides a brief introduction to our mission, vision, and values. You will also find information about the various projects and programs we run to support the needy ones. Additionally, there will be updates about recent activities and achievements. Feel free to explore the different sections and learn how you can make a difference through Helping Hands.
+
+## About
+
+Welcome to the Helping Hands website! Our platform is dedicated to providing support and assistance to those in need. Through our various initiatives and programs, we aim to make a positive impact on society. This website serves as a hub for our community, where users can learn more about our mission, get involved, and contribute to our cause.
 
 ## Contact
 
